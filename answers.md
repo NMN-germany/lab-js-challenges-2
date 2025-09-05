@@ -21,3 +21,4 @@
 5. Bonus - Challenge 5:
   - Answer: c
   - Explanation: 'obj.age= 10' modifies the original object (rabbit1). 'obj = { name: "Ada", age: 20 }' creates a new object for 'rabbit2'. 'rabbit1' is partially changes, 'rabbit2' is the new object.
+ 
